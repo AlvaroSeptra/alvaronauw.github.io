@@ -1,0 +1,47 @@
+img{
+    width: 300px;
+    height: 300px;
+  }
+
+body {
+  color: rgb(209, 214, 214);
+  background-color: #746f6f;
+}
+
+
+.navbar{
+  background-color: #272a36;
+  font-weight: 80px;
+  display: flex;
+  align-items: center;
+}
+
+.quotes{
+  background-color: #ac7f05;
+}
+
+.innovilage{
+  background-color: rgb(151, 33, 12);
+  width: 200px;
+  height: 50px;
+}
+
+.Immapa1{
+  background-color: rgb(24, 34, 83);
+  width: 300px;
+  height: 100px;
+}
+.Immapa2{
+  background-color: rgb(24, 34, 83);
+  width: 200px;
+  height: 80px;
+}
+
+.daskom{
+  background-color: rgb(10, 112, 56);
+  width: 200px;
+  height: 50px;
+}
+
+
+
